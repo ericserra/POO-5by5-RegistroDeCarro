@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ativ-POO-CadastroDeCarro", "Ativ-POO-CadastroDeCarro\Ativ-POO-CadastroDeCarro.csproj", "{AF10DE00-B9BA-4C9E-9354-74875A7CADFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF10DE00-B9BA-4C9E-9354-74875A7CADFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF10DE00-B9BA-4C9E-9354-74875A7CADFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF10DE00-B9BA-4C9E-9354-74875A7CADFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF10DE00-B9BA-4C9E-9354-74875A7CADFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F15045C1-2A45-4ECA-90FD-4D163B858DA1}
+	EndGlobalSection
+EndGlobal

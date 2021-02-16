@@ -1,0 +1,7 @@
+C:\Users\erics\source\repos\Ativ-POO-CadastroDeCarro\Ativ-POO-CadastroDeCarro\bin\Debug\Ativ-POO-CadastroDeCarro.exe.config
+C:\Users\erics\source\repos\Ativ-POO-CadastroDeCarro\Ativ-POO-CadastroDeCarro\bin\Debug\Ativ-POO-CadastroDeCarro.exe
+C:\Users\erics\source\repos\Ativ-POO-CadastroDeCarro\Ativ-POO-CadastroDeCarro\bin\Debug\Ativ-POO-CadastroDeCarro.pdb
+C:\Users\erics\source\repos\Ativ-POO-CadastroDeCarro\Ativ-POO-CadastroDeCarro\obj\Debug\Ativ-POO-CadastroDeCarro.csprojAssemblyReference.cache
+C:\Users\erics\source\repos\Ativ-POO-CadastroDeCarro\Ativ-POO-CadastroDeCarro\obj\Debug\Ativ-POO-CadastroDeCarro.csproj.CoreCompileInputs.cache
+C:\Users\erics\source\repos\Ativ-POO-CadastroDeCarro\Ativ-POO-CadastroDeCarro\obj\Debug\Ativ-POO-CadastroDeCarro.exe
+C:\Users\erics\source\repos\Ativ-POO-CadastroDeCarro\Ativ-POO-CadastroDeCarro\obj\Debug\Ativ-POO-CadastroDeCarro.pdb
